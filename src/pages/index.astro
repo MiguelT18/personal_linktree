@@ -1,16 +1,16 @@
 ---
-
+import Card from '../components/Card'
 ---
 
-<html lang="en">
+<html lang="es" class="dark">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>¿A dónde te diriges?</title>
 	</head>
-	<body>
-		<h1>Astro</h1>
+	<body class="min-h-screen flex items-center justify-center p-4 bg-gray-100 dark:bg-gray-900 dark:text-white">
+    <Card client:only="react" />
 	</body>
 </html>

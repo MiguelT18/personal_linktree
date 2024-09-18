@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TikTok",
+    "icon": "ic:baseline-tiktok",
+    "url": "https://www.tiktok.com/@miguel_terann?_t=8pogqNvhVPa&_r=1"
+  },
+  {
+    "name": "Instagram",
+    "icon": "mdi:instagram",
+    "url": "https://www.instagram.com/miguelterann01?igsh=MWZrN3Bqem54MXRvaQ=="
+  },
+  {
+    "name": "Facebook",
+    "icon": "ic:baseline-facebook",
+    "url": "https://www.facebook.com/people/Miguel-Ter%C3%A1n/61565247563920/"
+  },
+  {
+    "name": "YouTube",
+    "icon": "mdi:youtube",
+    "url": "https://www.youtube.com/@miguelteran6596"
+  },
+  {
+    "name": "Portafolio",
+    "icon": "zondicons:portfolio",
+    "url": "https://miguelteran.vercel.app/"
+  }
+]
